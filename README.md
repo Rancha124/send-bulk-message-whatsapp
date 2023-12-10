@@ -15,7 +15,7 @@ To successfully run this Python script, ensure that your system meets the follow
 
 ## Implementation
 - Begin by cloning this repository.
-- Execute the Python script named `script.py` in the terminal using the command `py script.py`.
+- Execute the Python script named `script.py` in the terminal using the command `python3 script.py`.
 - The script initiates WhatsApp web through Chrome.
 - Scan the QR code displayed with your phone.
 - Proceed by entering commands into the command prompt to continue.
