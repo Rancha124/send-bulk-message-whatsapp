@@ -5,13 +5,13 @@ This Python script automates sending WhatsApp messages via the WhatsApp web appl
 ## Requirements
 To successfully run this Python script, ensure that your system meets the following prerequisites. It's important to note that contact numbers need not be saved in your phone. Note that currently only text messages are supported.
 
-Python 3.8: Download from [Python's official website](https://www.python.org/downloads).
-Chrome v79: Download from [Google Chrome's official website](https://chrome.google.com).
-Pandas: Install via command prompt using `pip install pandas`.
-Xlrd: Install via command prompt using `pip install xlrd`.
-Selenium: Install via command prompt using `pip install selenium`.
-Web Driver: Install via command prompt using `pip install webdriver_manager`.
-Openpyxl: Install via command prompt using `pip install openpyxl`.
+- Python 3.8: Download from [Python's official website](https://www.python.org/downloads).
+- Chrome v79: Download from [Google Chrome's official website](https://chrome.google.com).
+- Pandas: Install via command prompt using `pip install pandas`.
+- Xlrd: Install via command prompt using `pip install xlrd`.
+- Selenium: Install via command prompt using `pip install selenium`.
+- Web Driver: Install via command prompt using `pip install webdriver_manager`.
+- Openpyxl: Install via command prompt using `pip install openpyxl`.
 
 ## Implementation
 - Begin by cloning this repository.
